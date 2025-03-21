@@ -1,4 +1,4 @@
-"""Write a Python program that asks the user for a number and prints "Even" if the number is even.
+""" Write a Python program that asks the user for a number and prints "Even" if the number is even.
 
 Ask the user for their age. If they are 18 or older, print "You can vote".
 
@@ -10,7 +10,7 @@ Write a program that asks the user for a number and checks if it is positive or 
 ⦁	If the number is greater than 0, print "Positive"
 ⦁	Otherwise, print "Negative"
 
-Write a Python program that asks for the temperature and prints the weather condition.
+Write a Python program that asks for the temperature and prints the weather conditions.
 ⦁	If the temperature is above 35, print "Very Hot"
 ⦁	If the temperature is between 26 and 35, print "Warm"
 ⦁	If the temperature is between 15 and 25, print "Cool"
